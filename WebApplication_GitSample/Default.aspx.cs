@@ -16,6 +16,7 @@ namespace WebApplication_GitSample
             Response.Write("My Program...");
 
             Response.Write("<br/>It is done now!");
+            Response.Write("<script language='javascript'>alert('Done !');</script>");
         }
     }
 }
