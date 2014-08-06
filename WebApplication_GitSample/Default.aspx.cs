@@ -15,8 +15,6 @@ namespace WebApplication_GitSample
             
             Response.Write("My Program...");
 
-
-
             Response.Write("<br/>It is done now!");
         }
     }
